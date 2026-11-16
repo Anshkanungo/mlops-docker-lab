@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+# Results written by the container, and saved image archives
+output/
+*.tar
